@@ -19,7 +19,7 @@
     "moment": "^2.24.0",
     "random-string": "^0.2.0",
     "react": "16.11.0",
-    "react-native": "0.62.1",
+    "react-native": "0.62.3",
     "react-native-animated-splash-screen": "^1.0.6",
     "react-native-button": "^3.0.1",
     "react-native-calendar-strip": "^1.4.1",
